@@ -6,7 +6,7 @@ import _ from "lodash";
 import { Link } from 'react-router-dom'
 
 
-var url = "http://localhost:4000/presentation";
+var url = "https://peaceful-woodland-84771.herokuapp.com/presentation";
 
 class Form extends Component {
   constructor(props){

@@ -1,7 +1,7 @@
 import Request from 'superagent';
 export const SHOW_PRESENT = "SHOW_PRESENT";
 export const SHOW_SINGLE_PRESENT = "SHOW_SINGLE_PRESENT";
-var url = "http://localhost:4000/presentation";
+var url = "https://peaceful-woodland-84771.herokuapp.com/presentation";
 
 export function showPresent(){
 

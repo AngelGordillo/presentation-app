@@ -4,7 +4,7 @@ import { showPresent } from '../actions';
 import {Link} from 'react-router-dom'
 import Request from 'superagent';
 import Moment from 'react-moment';
-var url = "http://localhost:4000/presentation";
+var url = "https://peaceful-woodland-84771.herokuapp.com/presentation";
 
 class View extends Component {
 
